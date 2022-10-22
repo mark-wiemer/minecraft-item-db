@@ -35,10 +35,6 @@
     },
     "lint-staged": {
         "*": "prettier --check",
-        "src/*": [
-            "npm run quality_inner",
-            "tsc --noEmit"
-        ],
         "package.json": "npm run packagejson"
     },
     "dependencies": {},

@@ -1,6 +1,6 @@
 # Minecraft item DB
 
-A simple item database generated from Minecraft Wiki. Includes the code to regenerate the database when Minecraft Wiki updates.
+A simple item database generated from Minecraft Wiki. Includes instructions to regenerate the database when Minecraft Wiki updates.
 
 ## Overall design
 
@@ -32,3 +32,7 @@ Optional:
 ## Notes
 
 This project was copied from `hello-npm` and has some unused dependencies that I don't care to remove right now :D
+
+### Why Bash?
+
+I know [it's not the most platform-independent system](https://stackoverflow.com/questions/34937724/running-bash-scripts-with-npm). But this is also a good learning opportunity for me! So that's why!
