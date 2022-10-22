@@ -28,3 +28,7 @@ Optional:
 
 1. Install the [recommended VS Code extensions](./.vscode/extensions.json)
 1. Enable [`keybindings.json](./.vscode/keybindings.json) following the instructions in that file
+
+## Notes
+
+This project was copied from `hello-npm` and has some unused dependencies that I don't care to remove right now :D
