@@ -1,27 +1,22 @@
-# Hello npm
+# Minecraft item DB
 
-A template project to easily get started building a well-maintained npm package.
+A simple item database generated from Minecraft Wiki. Includes the utility functions to regenerate the database when Minecraft Wiki updates.
 
-## Goals
-
--   Easy setup
--   Automatically format, lint, test, build, and deploy code
--   Document popular project management techniques
-
-## Creating a new project
+## Building from source
 
 ### Machine dependencies
 
-1. NodeJS and npm
+1. NodeJS
+1. npm (comes with NodeJS)
 1. Visual Studio Code
 
 ### Project setup
 
 1. Clone this project into a new repo
 1. `npm i`
-1. Install the recommended extensions
 1. You're done!
 
 Optional:
 
+1. Install the [recommended VS Code extensions](./.vscode/extensions.json)
 1. Enable [`keybindings.json](./.vscode/keybindings.json) following the instructions in that file
