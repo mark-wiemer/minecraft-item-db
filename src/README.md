@@ -13,9 +13,17 @@ Haha, coding is hard. Here are some manual steps in the meantime:
 
 ## Fetch the wiki page for each individual item
 
-1. Open `links.html`
- <!-- 1. So a find and regex replace with these values:
-     1. Find: `href="(.*?)"` -->
+1. Open `links.sh`
+1. So a find and regex replace with these values:
+    1. Find: `href="(.*?)"`
+    1. Replace: `https://minecraft.fandom.com$1`
+    1. Replace all
+1. Add a shebang and curl and output to a file of that name :D (this is so disgusting)
+1. Escape parentheses:
+    1. Find: `([()])`
+    1. Replace: `\\$1`
+    1. Replace all
+1.
 
 ## Todo
 
