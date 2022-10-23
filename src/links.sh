@@ -1,5 +1,5 @@
 #!/bin/sh
-# Fetch and store all item pages HTML, then format all files
+# Get and format HTML of each item's page
 curl https://minecraft.fandom.com/wiki/Item > Item.html
 curl https://minecraft.fandom.com/wiki/Item > Item.html
 curl https://minecraft.fandom.com/wiki/Amethyst_Shard > Amethyst_Shard.html
@@ -276,4 +276,4 @@ curl https://minecraft.fandom.com/wiki/Camera > Camera.html
 curl https://minecraft.fandom.com/wiki/Copper_Horn > Copper_Horn.html
 curl https://minecraft.fandom.com/wiki/MinecraftEdu > MinecraftEdu.html
 curl https://minecraft.fandom.com/wiki/Block_Inspector > Block_Inspector.html
-prettier --write .
+npx prettier --write .
