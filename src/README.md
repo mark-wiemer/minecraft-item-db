@@ -11,14 +11,33 @@ Haha, coding is hard. Here are some manual steps in the meantime:
 1. Format the file
 1. Run `generate_links_from_items.sh`
 
-## Fetch the wiki page for each individual item
+## Fetch the wiki page for each item
 
-1. Open `links.html`
- <!-- 1. So a find and regex replace with these values:
-     1. Find: `href="(.*?)"` -->
+1. Open `links.sh`
+1. Do a regex find and replace with these values:
+    1. Find: `href="(.*?)"`
+    1. Replace: `https://minecraft.fandom.com$1`
+    1. Replace all
+1. Add a shebang and curl and output to a file of that name :D (this is so disgusting)
+1. Escape parentheses via regex find and replace:
+    1. Find: `([()])`
+    1. Replace: `\\$1`
+    1. Replace all
+1. Add `prettier --write .` to the end
+1. Run the script!
 
-## Todo
+## Extract the relevant information from the wiki page
 
-1. Extract the relevant information from the wiki page
-1. Add the info to a row in the DB
-1. Repeat for all items
+1. `cd src && ls | xargs grep -A 3 "<th>Stackable</th>" > stackable.txt`
+1. `grep -P "<p>.*?</p>" stackable.txt > deduped-stackable.md`
+1. In `deduped-stackable.md`, do a regex find an replace:
+    1. Find: `(.*?).html-\s+<p>(.*?)</p>`
+    1. Replace: `| $1 | $2 |`
+    1. Replace all
+1. Remove any weird Unicode characters
+1. Add the table header:
+    ```md
+    | Item | Stackable (max amount) |
+    | ---- | ---------------------- |
+    ```
+1. Format the file

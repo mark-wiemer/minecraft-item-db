@@ -1,3 +1,5 @@
 # When updating this file, consider updating .prettierignore
 
 node_modules
+*.html
+!items.html
