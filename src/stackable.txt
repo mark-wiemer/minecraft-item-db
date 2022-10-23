@@ -1,0 +1,1050 @@
+Amethyst_Shard.html: <th>Stackable</th>
+Amethyst_Shard.html- <td>
+Amethyst_Shard.html- <p>Yes (64)</p>
+Amethyst_Shard.html- </td>
+--
+Apple.html: <th>Stackable</th>
+Apple.html- <td>
+Apple.html- <p>Yes (64)</p>
+Apple.html- </td>
+--
+Armor.html: <th>Stackable</th>
+Armor.html- <td>
+Armor.html- <p>No</p>
+Armor.html- </td>
+--
+Armor_Stand.html: <th>Stackable</th>
+Armor_Stand.html- <td>
+Armor_Stand.html- <p>JE: Yes (16), BE: Yes (64)</p>
+Armor_Stand.html- <b
+--
+Arrow.html: <th>Stackable</th>
+Arrow.html- <td>
+Arrow.html- <p>Normal/Spectral: Yes (64), Tipped: Yes (64, only if same effect)</p>
+Arrow.html- <b
+--
+Axe.html: <th>Stackable</th>
+Axe.html- <td>
+Axe.html- <p>No</p>
+Axe.html- </td>
+--
+Baked_Potato.html: <th>Stackable</th>
+Baked_Potato.html- <td>
+Baked_Potato.html- <p>Yes (64)</p>
+Baked_Potato.html- </td>
+--
+Balloon.html: <th>Stackable</th>
+Balloon.html- <td>
+Balloon.html- <p>Yes</p>
+Balloon.html- </td>
+--
+Banner_Pattern.html: <th>Stackable</th>
+Banner_Pattern.html- <td>
+Banner_Pattern.html- <p>No</p>
+Banner_Pattern.html- </td>
+--
+Beetroot.html: <th>Stackable</th>
+Beetroot.html- <td>
+Beetroot.html- <p>Yes (64)</p>
+Beetroot.html- </td>
+--
+Beetroot_Seeds.html: <th>Stackable</th>
+Beetroot_Seeds.html- <td>
+Beetroot_Seeds.html- <p>Yes (64)</p>
+Beetroot_Seeds.html- </td>
+--
+Beetroot_Soup.html: <th>Stackable</th>
+Beetroot_Soup.html- <td>
+Beetroot_Soup.html- <p>No</p>
+Beetroot_Soup.html- </td>
+--
+Black_Dye.html: <th>Stackable</th>
+Black_Dye.html- <td>
+Black_Dye.html- <p>Yes (64)</p>
+Black_Dye.html- </td>
+--
+Blaze_Powder.html: <th>Stackable</th>
+Blaze_Powder.html- <td>
+Blaze_Powder.html- <p>Yes (64)</p>
+Blaze_Powder.html- </td>
+--
+Blaze_Rod.html: <th>Stackable</th>
+Blaze_Rod.html- <td>
+Blaze_Rod.html- <p>Yes (64)</p>
+Blaze_Rod.html- </td>
+--
+Bleach.html: <th>Stackable</th>
+Bleach.html- <td>
+Bleach.html- <p>Yes (64)</p>
+Bleach.html- </td>
+--
+Blue_Dye.html: <th>Stackable</th>
+Blue_Dye.html- <td>
+Blue_Dye.html- <p>Yes (64)</p>
+Blue_Dye.html- </td>
+--
+Boat.html: <th>Stackable</th>
+Boat.html- <td>
+Boat.html- <p>No</p>
+Boat.html- </td>
+--
+Boat_with_Chest.html: <th>Stackable</th>
+Boat_with_Chest.html- <td>
+Boat_with_Chest.html- <p>No</p>
+Boat_with_Chest.html- </td>
+--
+Bone.html: <th>Stackable</th>
+Bone.html- <td>
+Bone.html- <p>Yes (64)</p>
+Bone.html- </td>
+--
+Bone_Meal.html: <th>Stackable</th>
+Bone_Meal.html- <td>
+Bone_Meal.html- <p>Yes (64)</p>
+Bone_Meal.html- </td>
+--
+Book.html: <th>Stackable</th>
+Book.html- <td>
+Book.html- <p>Yes (64)</p>
+Book.html- </td>
+--
+Book_and_Quill.html: <th>Stackable</th>
+Book_and_Quill.html- <td>
+Book_and_Quill.html- <p>No</p>
+Book_and_Quill.html- </td>
+--
+Boots.html: <th>Stackable</th>
+Boots.html- <td>
+Boots.html- <p>No</p>
+Boots.html- </td>
+--
+Bottle_o%27_Enchanting.html: <th>Stackable</th>
+Bottle_o%27_Enchanting.html- <td>
+Bottle_o%27_Enchanting.html- <p>Yes (64)</p>
+Bottle_o%27_Enchanting.html- </td>
+--
+Bow.html: <th>Stackable</th>
+Bow.html- <td>
+Bow.html- <p>No</p>
+Bow.html- </td>
+--
+Bowl.html: <th>Stackable</th>
+Bowl.html- <td>
+Bowl.html- <p>Yes (64)</p>
+Bowl.html- </td>
+--
+Bread.html: <th>Stackable</th>
+Bread.html- <td>
+Bread.html- <p>Yes (64)</p>
+Bread.html- </td>
+--
+Brick.html: <th>Stackable</th>
+Brick.html- <td>
+Brick.html- <p>Yes (64)</p>
+Brick.html- </td>
+--
+Brown_Dye.html: <th>Stackable</th>
+Brown_Dye.html- <td>
+Brown_Dye.html- <p>Yes (64)</p>
+Brown_Dye.html- </td>
+--
+Bucket.html: <th>Stackable</th>
+Bucket.html- <td>
+Bucket.html- <p>Yes (16), except in furnace fuel slot</p>
+--
+Bundle.html: <th>Stackable</th>
+Bundle.html- <td>
+Bundle.html- <p>No</p>
+Bundle.html- </td>
+--
+Camera.html: <th>Stackable</th>
+Camera.html- <td>
+Camera.html- <p>Yes (64)</p>
+Camera.html- </td>
+--
+Camera.html: <th>Stackable</th>
+Camera.html- <td>
+Camera.html- <p>Yes (64)</p>
+Camera.html- </td>
+--
+Carrot.html: <th>Stackable</th>
+Carrot.html- <td>
+Carrot.html- <p>Yes (64)</p>
+Carrot.html- </td>
+--
+Carrot_on_a_Stick.html: <th>Stackable</th>
+Carrot_on_a_Stick.html- <td>
+Carrot_on_a_Stick.html- <p>No</p>
+Carrot_on_a_Stick.html- </td>
+--
+Charcoal.html: <th>Stackable</th>
+Charcoal.html- <td>
+Charcoal.html- <p>Yes (64)</p>
+Charcoal.html- </td>
+--
+Chestplate.html: <th>Stackable</th>
+Chestplate.html- <td>
+Chestplate.html- <p>No</p>
+Chestplate.html- </td>
+--
+Chorus_Fruit.html: <th>Stackable</th>
+Chorus_Fruit.html- <td>
+Chorus_Fruit.html- <p>Yes (64)</p>
+Chorus_Fruit.html- </td>
+--
+Clay_Ball.html: <th>Stackable</th>
+Clay_Ball.html- <td>
+Clay_Ball.html- <p>Yes (64)</p>
+Clay_Ball.html- </td>
+--
+Clock.html: <th>Stackable</th>
+Clock.html- <td>
+Clock.html- <p>Yes (64)</p>
+Clock.html- </td>
+--
+Coal.html: <th>Stackable</th>
+Coal.html- <td>
+Coal.html- <p>Yes (64)</p>
+Coal.html- </td>
+--
+Cocoa_Beans.html: <th>Stackable</th>
+Cocoa_Beans.html- <td>
+Cocoa_Beans.html- <p>Yes (64)</p>
+Cocoa_Beans.html- </td>
+--
+Compass.html: <th>Stackable</th>
+Compass.html- <td>
+Compass.html- <p>Compass: Yes (64), Lodestone Compass: No </p>
+Compass.html- <b>Compass:</b> Yes
+--
+Compound.html: <th>Stackable</th>
+Compound.html- <td>
+Compound.html- <p>Yes (64)</p>
+Compound.html- </td>
+--
+Cooked_Chicken.html: <th>Stackable</th>
+Cooked_Chicken.html- <td>
+Cooked_Chicken.html- <p>Yes (64)</p>
+Cooked_Chicken.html- </td>
+--
+Cooked_Cod.html: <th>Stackable</th>
+Cooked_Cod.html- <td>
+Cooked_Cod.html- <p>Yes (64)</p>
+Cooked_Cod.html- </td>
+--
+Cooked_Mutton.html: <th>Stackable</th>
+Cooked_Mutton.html- <td>
+Cooked_Mutton.html- <p>Yes (64)</p>
+Cooked_Mutton.html- </td>
+--
+Cooked_Porkchop.html: <th>Stackable</th>
+Cooked_Porkchop.html- <td>
+Cooked_Porkchop.html- <p>Yes (64)</p>
+Cooked_Porkchop.html- </td>
+--
+Cooked_Rabbit.html: <th>Stackable</th>
+Cooked_Rabbit.html- <td>
+Cooked_Rabbit.html- <p>Yes (64)</p>
+Cooked_Rabbit.html- </td>
+--
+Cooked_Salmon.html: <th>Stackable</th>
+Cooked_Salmon.html- <td>
+Cooked_Salmon.html- <p>Yes (64)</p>
+Cooked_Salmon.html- </td>
+--
+Cookie.html: <th>Stackable</th>
+Cookie.html- <td>
+Cookie.html- <p>Yes (64)</p>
+Cookie.html- </td>
+--
+Copper_Horn.html: <th>Stackable</th>
+Copper_Horn.html- <td>
+Copper_Horn.html- <p>No</p>
+Copper_Horn.html- </td>
+--
+Copper_Ingot.html: <th>Stackable</th>
+Copper_Ingot.html- <td>
+Copper_Ingot.html- <p>Yes (64)</p>
+Copper_Ingot.html- </td>
+--
+Crossbow.html: <th>Stackable</th>
+Crossbow.html- <td>
+Crossbow.html- <p>No</p>
+Crossbow.html- </td>
+--
+Cyan_Dye.html: <th>Stackable</th>
+Cyan_Dye.html- <td>
+Cyan_Dye.html- <p>Yes (64)</p>
+Cyan_Dye.html- </td>
+--
+Debug_Stick.html: <th>Stackable</th>
+Debug_Stick.html- <td>
+Debug_Stick.html- <p>No</p>
+Debug_Stick.html- </td>
+--
+Diamond.html: <th>Stackable</th>
+Diamond.html- <td>
+Diamond.html- <p>Yes (64)</p>
+Diamond.html- </td>
+--
+Dragon%27s_Breath.html: <th>Stackable</th>
+Dragon%27s_Breath.html- <td>
+Dragon%27s_Breath.html- <p>Yes (64)</p>
+Dragon%27s_Breath.html- </td>
+--
+Dried_Kelp.html: <th>Stackable</th>
+Dried_Kelp.html- <td>
+Dried_Kelp.html- <p>Yes (64)</p>
+Dried_Kelp.html- </td>
+--
+Dye.html: <th>Stackable</th>
+Dye.html- <td>
+Dye.html- <p>Yes (64)</p>
+Dye.html- </td>
+--
+Echo_Shard.html: <th>Stackable</th>
+Echo_Shard.html- <td>
+Echo_Shard.html- <p>Yes (64)</p>
+Echo_Shard.html- </td>
+--
+Egg.html: <th>Stackable</th>
+Egg.html- <td>
+Egg.html- <p>Yes (16)</p>
+Egg.html- </td>
+--
+Elytra.html: <th>Stackable</th>
+Elytra.html- <td>
+Elytra.html- <p>No</p>
+Elytra.html- </td>
+--
+Emerald#History.html: <th>Stackable</th>
+Emerald#History.html- <td>
+Emerald#History.html- <p>Yes (64)</p>
+Emerald#History.html- </td>
+--
+Emerald.html: <th>Stackable</th>
+Emerald.html- <td>
+Emerald.html- <p>Yes (64)</p>
+Emerald.html- </td>
+--
+Enchanted_Book.html: <th>Stackable</th>
+Enchanted_Book.html- <td>
+Enchanted_Book.html- <p>No</p>
+Enchanted_Book.html- </td>
+--
+Enchanted_Golden_Apple.html: <th>Stackable</th>
+Enchanted_Golden_Apple.html- <td>
+Enchanted_Golden_Apple.html- <p>Yes (64)</p>
+Enchanted_Golden_Apple.html- </td>
+--
+End_Crystal.html: <th>Stackable</th>
+End_Crystal.html- <td>
+End_Crystal.html- <p>Yes (64)</p>
+End_Crystal.html- </td>
+--
+Ender_Pearl.html: <th>Stackable</th>
+Ender_Pearl.html- <td>
+Ender_Pearl.html- <p>Yes (16)</p>
+Ender_Pearl.html- </td>
+--
+Explorer_Map.html: <th>Stackable</th>
+Explorer_Map.html- <td>
+Explorer_Map.html- <p>Yes (64)</p>
+Explorer_Map.html- </td>
+--
+Eye_of_Ender.html: <th>Stackable</th>
+Eye_of_Ender.html- <td>
+Eye_of_Ender.html- <p>Yes (64)</p>
+Eye_of_Ender.html- </td>
+--
+Feather.html: <th>Stackable</th>
+Feather.html- <td>
+Feather.html- <p>Yes (64)</p>
+Feather.html- </td>
+--
+Fermented_Spider_Eye.html: <th>Stackable</th>
+Fermented_Spider_Eye.html- <td>
+Fermented_Spider_Eye.html- <p>Yes (64)</p>
+Fermented_Spider_Eye.html- </td>
+--
+Fire_Charge.html: <th>Stackable</th>
+Fire_Charge.html- <td>
+Fire_Charge.html- <p>Yes (64)</p>
+Fire_Charge.html- </td>
+--
+Firework_Rocket.html: <th>Stackable</th>
+Firework_Rocket.html- <td>
+Firework_Rocket.html- <p>Yes (64)‎</p>
+Firework_Rocket.html- </td>
+--
+Firework_Star.html: <th>Stackable</th>
+Firework_Star.html- <td>
+Firework_Star.html- <p>Yes (64)</p>
+Firework_Star.html- </td>
+--
+Fishing_Rod.html: <th>Stackable</th>
+Fishing_Rod.html- <td>
+Fishing_Rod.html- <p>No</p>
+Fishing_Rod.html- </td>
+--
+Flint.html: <th>Stackable</th>
+Flint.html- <td>
+Flint.html- <p>Yes (64)</p>
+Flint.html- </td>
+--
+Flint_and_Steel.html: <th>Stackable</th>
+Flint_and_Steel.html- <td>
+Flint_and_Steel.html- <p>No</p>
+Flint_and_Steel.html- </td>
+--
+Footprint.html: <th>Stackable</th>
+Footprint.html- <td>
+Footprint.html- <p>Yes (64)</p>
+Footprint.html- </td>
+--
+Ghast_Tear.html: <th>Stackable</th>
+Ghast_Tear.html- <td>
+Ghast_Tear.html- <p>Yes (64)</p>
+Ghast_Tear.html- </td>
+--
+Glass_Bottle.html: <th>Stackable</th>
+Glass_Bottle.html- <td>
+Glass_Bottle.html- <p>Yes (64)</p>
+Glass_Bottle.html- </td>
+--
+Glistering_Melon_Slice.html: <th>Stackable</th>
+Glistering_Melon_Slice.html- <td>
+Glistering_Melon_Slice.html- <p>Yes (64)</p>
+Glistering_Melon_Slice.html- </td>
+--
+Glow_Berries.html: <th>Stackable</th>
+Glow_Berries.html- <td>
+Glow_Berries.html- <p>Yes (64)</p>
+Glow_Berries.html- </td>
+--
+Glow_Ink_Sac.html: <th>Stackable</th>
+Glow_Ink_Sac.html- <td>
+Glow_Ink_Sac.html- <p>Yes (64)</p>
+Glow_Ink_Sac.html- </td>
+--
+Glow_Stick.html: <th>Stackable</th>
+Glow_Stick.html- <td>
+Glow_Stick.html- <p>No</p>
+Glow_Stick.html- </td>
+--
+Glowstone_Dust.html: <th>Stackable</th>
+Glowstone_Dust.html- <td>
+Glowstone_Dust.html- <p>Yes (64)</p>
+Glowstone_Dust.html- </td>
+--
+Goat_Horn.html: <th>Stackable</th>
+Goat_Horn.html- <td>
+Goat_Horn.html- <p>No</p>
+Goat_Horn.html- </td>
+--
+Gold_Ingot.html: <th>Stackable</th>
+Gold_Ingot.html- <td>
+Gold_Ingot.html- <p>Yes (64)</p>
+Gold_Ingot.html- </td>
+--
+Gold_Nugget.html: <th>Stackable</th>
+Gold_Nugget.html- <td>
+Gold_Nugget.html- <p>Yes (64)</p>
+Gold_Nugget.html- </td>
+--
+Golden_Apple.html: <th>Stackable</th>
+Golden_Apple.html- <td>
+Golden_Apple.html- <p>Yes (64)</p>
+Golden_Apple.html- </td>
+--
+Golden_Carrot.html: <th>Stackable</th>
+Golden_Carrot.html- <td>
+Golden_Carrot.html- <p>Yes (64)</p>
+Golden_Carrot.html- </td>
+--
+Gray_Dye.html: <th>Stackable</th>
+Gray_Dye.html- <td>
+Gray_Dye.html- <p>Yes (64)</p>
+Gray_Dye.html- </td>
+--
+Green_Dye.html: <th>Stackable</th>
+Green_Dye.html- <td>
+Green_Dye.html- <p>Yes (64)</p>
+Green_Dye.html- </td>
+--
+Gunpowder.html: <th>Stackable</th>
+Gunpowder.html- <td>
+Gunpowder.html- <p>Yes (64)</p>
+Gunpowder.html- </td>
+--
+Heart_of_the_Sea.html: <th>Stackable</th>
+Heart_of_the_Sea.html- <td>
+Heart_of_the_Sea.html- <p>Yes (64)</p>
+Heart_of_the_Sea.html- </td>
+--
+Helmet.html: <th>Stackable</th>
+Helmet.html- <td>
+Helmet.html- <p>No</p>
+Helmet.html- </td>
+--
+Hoe.html: <th>Stackable</th>
+Hoe.html- <td>
+Hoe.html- <p>No</p>
+Hoe.html- </td>
+--
+Honey_Bottle.html: <th>Stackable</th>
+Honey_Bottle.html- <td>
+Honey_Bottle.html- <p>Yes (16)</p>
+Honey_Bottle.html- </td>
+--
+Honeycomb.html: <th>Stackable</th>
+Honeycomb.html- <td>
+Honeycomb.html- <p>Yes (64)</p>
+Honeycomb.html- </td>
+--
+Horse_Armor.html: <th>Stackable</th>
+Horse_Armor.html- <td>
+Horse_Armor.html- <p>No</p>
+Horse_Armor.html- </td>
+--
+Horse_Saddle.html: <th>Stackable</th>
+Horse_Saddle.html- <td>
+Horse_Saddle.html- <p>Yes (32)</p>
+Horse_Saddle.html- </td>
+--
+Ice_Bomb.html: <th>Stackable</th>
+Ice_Bomb.html- <td>
+Ice_Bomb.html- <p>Yes (16)</p>
+Ice_Bomb.html- </td>
+--
+Ink_Sac.html: <th>Stackable</th>
+Ink_Sac.html- <td>
+Ink_Sac.html- <p>Yes (64)</p>
+Ink_Sac.html- </td>
+--
+Iron_Ingot.html: <th>Stackable</th>
+Iron_Ingot.html- <td>
+Iron_Ingot.html- <p>Yes (64)</p>
+Iron_Ingot.html- </td>
+--
+Iron_Nugget.html: <th>Stackable</th>
+Iron_Nugget.html- <td>
+Iron_Nugget.html- <p>Yes (64)</p>
+Iron_Nugget.html- </td>
+--
+Item_Frame.html: <th>Stackable</th>
+Item_Frame.html- <td>
+Item_Frame.html- <p>Yes (64)</p>
+Item_Frame.html- </td>
+--
+Knowledge_Book.html: <th>Stackable</th>
+Knowledge_Book.html- <td>
+Knowledge_Book.html- <p>No</p>
+Knowledge_Book.html- </td>
+--
+Lapis_Lazuli.html: <th>Stackable</th>
+Lapis_Lazuli.html- <td>
+Lapis_Lazuli.html- <p>Yes (64)</p>
+Lapis_Lazuli.html- </td>
+--
+Lava_Bucket.html: <th>Stackable</th>
+Lava_Bucket.html- <td>
+Lava_Bucket.html- <p>No</p>
+Lava_Bucket.html- </td>
+--
+Lead.html: <th>Stackable</th>
+Lead.html- <td>
+Lead.html- <p>Yes (64)</p>
+Lead.html- </td>
+--
+Leather.html: <th>Stackable</th>
+Leather.html- <td>
+Leather.html- <p>Yes (64)</p>
+Leather.html- </td>
+--
+Leggings.html: <th>Stackable</th>
+Leggings.html- <td>
+Leggings.html- <p>No</p>
+Leggings.html- </td>
+--
+Light_Blue_Dye.html: <th>Stackable</th>
+Light_Blue_Dye.html- <td>
+Light_Blue_Dye.html- <p>Yes (64)</p>
+Light_Blue_Dye.html- </td>
+--
+Light_Gray_Dye.html: <th>Stackable</th>
+Light_Gray_Dye.html- <td>
+Light_Gray_Dye.html- <p>Yes (64)</p>
+Light_Gray_Dye.html- </td>
+--
+Lime_Dye.html: <th>Stackable</th>
+Lime_Dye.html- <td>
+Lime_Dye.html- <p>Yes (64)</p>
+Lime_Dye.html- </td>
+--
+Lingering_Potion.html: <th>Stackable</th>
+Lingering_Potion.html- <td>
+Lingering_Potion.html- <p>No</p>
+Lingering_Potion.html- </td>
+--
+Magenta_Dye.html: <th>Stackable</th>
+Magenta_Dye.html- <td>
+Magenta_Dye.html- <p>Yes (64)</p>
+Magenta_Dye.html- </td>
+--
+Magma_Cream.html: <th>Stackable</th>
+Magma_Cream.html- <td>
+Magma_Cream.html- <p>Yes (64)</p>
+Magma_Cream.html- </td>
+--
+Map.html: <th>Stackable</th>
+Map.html- <td>
+Map.html- <p>Yes (64)</p>
+Map.html- </td>
+--
+Medicine.html: <th>Stackable</th>
+Medicine.html- <td>
+Medicine.html- <p>No</p>
+Medicine.html- </td>
+--
+Melon_Seeds.html: <th>Stackable</th>
+Melon_Seeds.html- <td>
+Melon_Seeds.html- <p>Yes (64)</p>
+Melon_Seeds.html- </td>
+--
+Melon_Slice.html: <th>Stackable</th>
+Melon_Slice.html- <td>
+Melon_Slice.html- <p>Yes (64)</p>
+Melon_Slice.html- </td>
+--
+Milk_Bucket.html: <th>Stackable</th>
+Milk_Bucket.html- <td>
+Milk_Bucket.html- <p>No</p>
+Milk_Bucket.html- </td>
+--
+Minecart.html: <th>Stackable</th>
+Minecart.html- <td>
+Minecart.html- <p>No</p>
+Minecart.html- </td>
+--
+Minecart_with_Chest.html: <th>Stackable</th>
+Minecart_with_Chest.html- <td>
+Minecart_with_Chest.html- <p>No</p>
+Minecart_with_Chest.html- </td>
+--
+Minecart_with_Command_Block.html: <th>Stackable</th>
+Minecart_with_Command_Block.html- <td>
+Minecart_with_Command_Block.html- <p>No</p>
+Minecart_with_Command_Block.html- </td>
+--
+Minecart_with_Furnace.html: <th>Stackable</th>
+Minecart_with_Furnace.html- <td>
+Minecart_with_Furnace.html- <p>No</p>
+Minecart_with_Furnace.html- </td>
+--
+Minecart_with_Hopper.html: <th>Stackable</th>
+Minecart_with_Hopper.html- <td>
+Minecart_with_Hopper.html- <p>No</p>
+Minecart_with_Hopper.html- </td>
+--
+Minecart_with_TNT.html: <th>Stackable</th>
+Minecart_with_TNT.html- <td>
+Minecart_with_TNT.html- <p>No</p>
+Minecart_with_TNT.html- </td>
+--
+Mushroom_Stew.html: <th>Stackable</th>
+Mushroom_Stew.html- <td>
+Mushroom_Stew.html- <p>No</p>
+Mushroom_Stew.html- </td>
+--
+Music_Disc.html: <th>Stackable</th>
+Music_Disc.html- <td>
+Music_Disc.html- <p>No</p>
+Music_Disc.html- </td>
+--
+Name_Tag.html: <th>Stackable</th>
+Name_Tag.html- <td>
+Name_Tag.html- <p>Yes (64)</p>
+Name_Tag.html- </td>
+--
+Nautilus_Shell.html: <th>Stackable</th>
+Nautilus_Shell.html- <td>
+Nautilus_Shell.html- <p>Yes (64)</p>
+Nautilus_Shell.html- </td>
+--
+Nether_Brick.html: <th>Stackable</th>
+Nether_Brick.html- <td>
+Nether_Brick.html- <p>Yes (64)</p>
+Nether_Brick.html- </td>
+--
+Nether_Quartz.html: <th>Stackable</th>
+Nether_Quartz.html- <td>
+Nether_Quartz.html- <p>Yes (64)</p>
+Nether_Quartz.html- </td>
+--
+Nether_Star.html: <th>Stackable</th>
+Nether_Star.html- <td>
+Nether_Star.html- <p>Yes (64)</p>
+Nether_Star.html- </td>
+--
+Nether_Wart.html: <th>Stackable</th>
+Nether_Wart.html- <td>
+Nether_Wart.html- <p>Yes (64)</p>
+Nether_Wart.html- </td>
+--
+Netherite_Ingot.html: <th>Stackable</th>
+Netherite_Ingot.html- <td>
+Netherite_Ingot.html- <p>Yes (64)</p>
+Netherite_Ingot.html- </td>
+--
+Netherite_Scrap.html: <th>Stackable</th>
+Netherite_Scrap.html- <td>
+Netherite_Scrap.html- <p>Yes (64)</p>
+Netherite_Scrap.html- </td>
+--
+Obsidian_Boat.html: <th>Stackable</th>
+Obsidian_Boat.html- <td>
+Obsidian_Boat.html- <p>No</p>
+Obsidian_Boat.html- </td>
+--
+Orange_Dye.html: <th>Stackable</th>
+Orange_Dye.html- <td>
+Orange_Dye.html- <p>Yes (64)</p>
+Orange_Dye.html- </td>
+--
+Painting.html: <th>Stackable</th>
+Painting.html- <td>
+Painting.html- <p>Yes (64)</p>
+Painting.html- </td>
+--
+Paper.html: <th>Stackable</th>
+Paper.html- <td>
+Paper.html- <p>Yes (64)</p>
+Paper.html- </td>
+--
+Phantom_Membrane.html: <th>Stackable</th>
+Phantom_Membrane.html- <td>
+Phantom_Membrane.html- <p>Yes (64)</p>
+Phantom_Membrane.html- </td>
+--
+Photo.html: <th>Stackable</th>
+Photo.html- <td>
+Photo.html- <p>?</p>
+Photo.html- </td>
+--
+Pickaxe.html: <th>Stackable</th>
+Pickaxe.html- <td>
+Pickaxe.html- <p>No</p>
+Pickaxe.html- </td>
+--
+Pink_Dye.html: <th>Stackable</th>
+Pink_Dye.html- <td>
+Pink_Dye.html- <p>Yes (64)</p>
+Pink_Dye.html- </td>
+--
+Poisonous_Potato.html: <th>Stackable</th>
+Poisonous_Potato.html- <td>
+Poisonous_Potato.html- <p>Yes (64)</p>
+Poisonous_Potato.html- </td>
+--
+Popped_Chorus_Fruit.html: <th>Stackable</th>
+Popped_Chorus_Fruit.html- <td>
+Popped_Chorus_Fruit.html- <p>Yes (64)</p>
+Popped_Chorus_Fruit.html- </td>
+--
+Portfolio.html: <th>Stackable</th>
+Portfolio.html- <td>
+Portfolio.html- <p>Yes (64)</p>
+Portfolio.html- </td>
+--
+Potato.html: <th>Stackable</th>
+Potato.html- <td>
+Potato.html- <p>Yes (64)</p>
+Potato.html- </td>
+--
+Potion.html: <th>Stackable</th>
+Potion.html- <td>
+Potion.html- <p>BE: No, JE: No‌[until JE Combat Tests], JE Combat Tests: Yes (16)‌</p>
+--
+Powder_Snow_Bucket.html: <th>Stackable</th>
+Powder_Snow_Bucket.html- <td>
+Powder_Snow_Bucket.html- <p>No</p>
+Powder_Snow_Bucket.html- </td>
+--
+Prismarine_Crystals.html: <th>Stackable</th>
+Prismarine_Crystals.html- <td>
+Prismarine_Crystals.html- <p>Yes (64)</p>
+Prismarine_Crystals.html- </td>
+--
+Prismarine_Shard.html: <th>Stackable</th>
+Prismarine_Shard.html- <td>
+Prismarine_Shard.html- <p>Yes (64)</p>
+Prismarine_Shard.html- </td>
+--
+Pufferfish_(item).html: <th>Stackable</th>
+Pufferfish_(item).html- <td>
+Pufferfish_(item).html- <p>Yes (64)</p>
+Pufferfish_(item).html- </td>
+--
+Pumpkin_Pie.html: <th>Stackable</th>
+Pumpkin_Pie.html- <td>
+Pumpkin_Pie.html- <p>Yes (64)</p>
+Pumpkin_Pie.html- </td>
+--
+Pumpkin_Seeds.html: <th>Stackable</th>
+Pumpkin_Seeds.html- <td>
+Pumpkin_Seeds.html- <p>Yes (64)</p>
+Pumpkin_Seeds.html- </td>
+--
+Purple_Dye.html: <th>Stackable</th>
+Purple_Dye.html- <td>
+Purple_Dye.html- <p>Yes (64)</p>
+Purple_Dye.html- </td>
+--
+Rabbit%27s_Foot.html: <th>Stackable</th>
+Rabbit%27s_Foot.html- <td>
+Rabbit%27s_Foot.html- <p>Yes (64)</p>
+Rabbit%27s_Foot.html- </td>
+--
+Rabbit_Hide.html: <th>Stackable</th>
+Rabbit_Hide.html- <td>
+Rabbit_Hide.html- <p>Yes (64)</p>
+Rabbit_Hide.html- </td>
+--
+Rabbit_Stew.html: <th>Stackable</th>
+Rabbit_Stew.html- <td>
+Rabbit_Stew.html- <p>No</p>
+Rabbit_Stew.html- </td>
+--
+Raw_Beef.html: <th>Stackable</th>
+Raw_Beef.html- <td>
+Raw_Beef.html- <p>Yes (64)</p>
+Raw_Beef.html- </td>
+--
+Raw_Chicken.html: <th>Stackable</th>
+Raw_Chicken.html- <td>
+Raw_Chicken.html- <p>Yes (64)</p>
+Raw_Chicken.html- </td>
+--
+Raw_Cod.html: <th>Stackable</th>
+Raw_Cod.html- <td>
+Raw_Cod.html- <p>Yes (64)</p>
+Raw_Cod.html- </td>
+--
+Raw_Copper.html: <th>Stackable</th>
+Raw_Copper.html- <td>
+Raw_Copper.html- <p>Yes (64)</p>
+Raw_Copper.html- </td>
+--
+Raw_Gold.html: <th>Stackable</th>
+Raw_Gold.html- <td>
+Raw_Gold.html- <p>Yes (64)</p>
+Raw_Gold.html- </td>
+--
+Raw_Iron.html: <th>Stackable</th>
+Raw_Iron.html- <td>
+Raw_Iron.html- <p>Yes (64)</p>
+Raw_Iron.html- </td>
+--
+Raw_Mutton.html: <th>Stackable</th>
+Raw_Mutton.html- <td>
+Raw_Mutton.html- <p>Yes (64)</p>
+Raw_Mutton.html- </td>
+--
+Raw_Porkchop.html: <th>Stackable</th>
+Raw_Porkchop.html- <td>
+Raw_Porkchop.html- <p>Yes (64)</p>
+Raw_Porkchop.html- </td>
+--
+Raw_Rabbit.html: <th>Stackable</th>
+Raw_Rabbit.html- <td>
+Raw_Rabbit.html- <p>Yes (64)</p>
+Raw_Rabbit.html- </td>
+--
+Raw_Salmon.html: <th>Stackable</th>
+Raw_Salmon.html- <td>
+Raw_Salmon.html- <p>Yes (64)</p>
+Raw_Salmon.html- </td>
+--
+Reality_Vision.html: <th>Stackable</th>
+Reality_Vision.html- <td>
+Reality_Vision.html- <p>Yes (64)</p>
+Reality_Vision.html- </td>
+--
+Recovery_Compass.html: <th>Stackable</th>
+Recovery_Compass.html- <td>
+Recovery_Compass.html- <p>Yes (64)</p>
+Recovery_Compass.html- </td>
+--
+Red_Dye.html: <th>Stackable</th>
+Red_Dye.html- <td>
+Red_Dye.html- <p>Yes (64)</p>
+Red_Dye.html- </td>
+--
+Redstone_Dust.html: <th>Stackable</th>
+Redstone_Dust.html- <td>
+Redstone_Dust.html- <p>Yes (64)</p>
+Redstone_Dust.html- </td>
+--
+Rotten_Flesh.html: <th>Stackable</th>
+Rotten_Flesh.html- <td>
+Rotten_Flesh.html- <p>Yes (64)</p>
+Rotten_Flesh.html- </td>
+--
+Saddle.html: <th>Stackable</th>
+Saddle.html- <td>
+Saddle.html- <p>No</p>
+Saddle.html- </td>
+--
+Scute.html: <th>Stackable</th>
+Scute.html- <td>
+Scute.html- <p>Yes (64)</p>
+Scute.html- </td>
+--
+Shears.html: <th>Stackable</th>
+Shears.html- <td>
+Shears.html- <p>No</p>
+Shears.html- </td>
+--
+Shield.html: <th>Stackable</th>
+Shield.html- <td>
+Shield.html- <p>No</p>
+Shield.html- </td>
+--
+Shovel.html: <th>Stackable</th>
+Shovel.html- <td>
+Shovel.html- <p>No</p>
+Shovel.html- </td>
+--
+Shulker_Shell.html: <th>Stackable</th>
+Shulker_Shell.html- <td>
+Shulker_Shell.html- <p>Yes (64)</p>
+Shulker_Shell.html- </td>
+--
+Slimeball.html: <th>Stackable</th>
+Slimeball.html- <td>
+Slimeball.html- <p>Yes (64)</p>
+Slimeball.html- </td>
+--
+Smarter_Watch.html: <th>Stackable</th>
+Smarter_Watch.html- <td>
+Smarter_Watch.html- <p>Yes (64)</p>
+Smarter_Watch.html- </td>
+--
+Snowball.html: <th>Stackable</th>
+Snowball.html- <td>
+Snowball.html- <p>Yes (16), JE Combat tests: Yes (64)</p>
+--
+Sparkler.html: <th>Stackable</th>
+Sparkler.html- <td>
+Sparkler.html- <p>No</p>
+Sparkler.html- </td>
+--
+Spawn_Egg.html: <th>Stackable</th>
+Spawn_Egg.html- <td>
+Spawn_Egg.html- <p>Yes (64), the same type of spawn egg only</p>
+--
+Spider_Eye.html: <th>Stackable</th>
+Spider_Eye.html- <td>
+Spider_Eye.html- <p>Yes (64)</p>
+Spider_Eye.html- </td>
+--
+Splash_Potion.html: <th>Stackable</th>
+Splash_Potion.html- <td>
+Splash_Potion.html- <p>No</p>
+Splash_Potion.html- </td>
+--
+Spyglass.html: <th>Stackable</th>
+Spyglass.html- <td>
+Spyglass.html- <p>No</p>
+Spyglass.html- </td>
+--
+Steak.html: <th>Stackable</th>
+Steak.html- <td>
+Steak.html- <p>Yes (64)</p>
+Steak.html- </td>
+--
+Stick.html: <th>Stackable</th>
+Stick.html- <td>
+Stick.html- <p>Yes (64)</p>
+Stick.html- </td>
+--
+String.html: <th>Stackable</th>
+String.html- <td>
+String.html- <p>Yes (64)</p>
+String.html- </td>
+--
+Sugar.html: <th>Stackable</th>
+Sugar.html- <td>
+Sugar.html- <p>Yes (64)</p>
+Sugar.html- </td>
+--
+Super_Fertilizer.html: <th>Stackable</th>
+Super_Fertilizer.html- <td>
+Super_Fertilizer.html- <p>Yes (64)</p>
+Super_Fertilizer.html- </td>
+--
+Suspicious_Stew.html: <th>Stackable</th>
+Suspicious_Stew.html- <td>
+Suspicious_Stew.html- <p>No</p>
+Suspicious_Stew.html- </td>
+--
+Sweet_Berries.html: <th>Stackable</th>
+Sweet_Berries.html- <td>
+Sweet_Berries.html- <p>Yes (64)</p>
+Sweet_Berries.html- </td>
+--
+Sword.html: <th>Stackable</th>
+Sword.html- <td>
+Sword.html- <p>No</p>
+Sword.html- </td>
+--
+Totem_of_Undying.html: <th>Stackable</th>
+Totem_of_Undying.html- <td>
+Totem_of_Undying.html- <p>No</p>
+Totem_of_Undying.html- </td>
+--
+Trident.html: <th>Stackable</th>
+Trident.html- <td>
+Trident.html- <p>No</p>
+Trident.html- </td>
+--
+Tropical_Fish_(item).html: <th>Stackable</th>
+Tropical_Fish_(item).html- <td>
+Tropical_Fish_(item).html- <p>Yes (64)</p>
+Tropical_Fish_(item).html- </td>
+--
+Warped_Fungus_on_a_Stick.html: <th>Stackable</th>
+Warped_Fungus_on_a_Stick.html- <td>
+Warped_Fungus_on_a_Stick.html- <p>No</p>
+Warped_Fungus_on_a_Stick.html- </td>
+--
+Water_Bucket.html: <th>Stackable</th>
+Water_Bucket.html- <td>
+Water_Bucket.html- <p>No</p>
+Water_Bucket.html- </td>
+--
+Wheat.html: <th>Stackable</th>
+Wheat.html- <td>
+Wheat.html- <p>Yes (64)</p>
+Wheat.html- </td>
+--
+Wheat_Seeds.html: <th>Stackable</th>
+Wheat_Seeds.html- <td>
+Wheat_Seeds.html- <p>Yes (64)</p>
+Wheat_Seeds.html- </td>
+--
+White_Dye.html: <th>Stackable</th>
+White_Dye.html- <td>
+White_Dye.html- <p>Yes (64)</p>
+White_Dye.html- </td>
+--
+Written_Book.html: <th>Stackable</th>
+Written_Book.html- <td>
+Written_Book.html- <p>Yes (16)</p>
+Written_Book.html- </td>
+--
+Yellow_Dye.html: <th>Stackable</th>
+Yellow_Dye.html- <td>
+Yellow_Dye.html- <p>Yes (64)</p>
+Yellow_Dye.html- </td>

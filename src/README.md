@@ -31,7 +31,7 @@ Haha, coding is hard. Here are some manual steps in the meantime:
 1. Extract the table row with `Stackable` in it:
     1. `grep "<th>Stackable</th>" -A 3 * > stackable.txt`
     1. Remove duplicate spaces in `stackable.txt`: Find `\s{2,}`, replace with ` ` (single space)
-    1. Some files will not have their full stackable info copied as it takes more than 3 formatted lines. For those files, manually copy the stackable information that you need as one long line. Use Find `<p>.*?</p>` and get sections that **don't** match the pattern
+    1. Some files will not have their full stackable info copied as it takes more than 3 formatted lines. For those files, manually copy the stackable information that you need as one long line. Use Find `<p>.*?</p>` and get sections that **don't** match the pattern. For example, I added `Armor_Stand.html- <p>JE: Yes (16), BE: Yes (64)</p>`
 1. `grep -P "<p>.*?</p>" stackable.txt > deduped-stackable.md`
 1. In `deduped-stackable.md`, do a regex find an replace:
     1. Find: `(.*?).html-\s+<p>(.*?)</p>`
