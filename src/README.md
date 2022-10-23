@@ -18,17 +18,20 @@ Haha, coding is hard. Here are some manual steps in the meantime:
     1. Find: `href="(.*?)"`
     1. Replace: `https://minecraft.fandom.com$1`
     1. Replace all
-1. Add a shebang and curl and output to a file of that name :D (this is so disgusting)
+1. Add a shebang and curl and output to a file of that name in the wiki folder :D (this is so disgusting)
 1. Escape parentheses via regex find and replace:
     1. Find: `([()])`
     1. Replace: `\\$1`
     1. Replace all
-1. Add `prettier --write .` to the end
+1. Add `npx prettier --write .` to the end
 1. Run the script!
 
 ## Extract the relevant information from the wiki page
 
-1. `cd src && ls | xargs grep -A 3 "<th>Stackable</th>" > stackable.txt`
+1. Extract the table row with `Stackable` in it:
+    1. `grep "<th>Stackable</th>" -A 3 * > stackable.txt`
+    1. Remove duplicate spaces in `stackable.txt`: Find `\s{2,}`, replace with ` ` (single space)
+    1. Some files will not have their full stackable info copied as it takes more than 3 formatted lines. For those files, manually copy the stackable information that you need as one long line. Use Find `<p>.*?</p>` and get sections that **don't** match the pattern
 1. `grep -P "<p>.*?</p>" stackable.txt > deduped-stackable.md`
 1. In `deduped-stackable.md`, do a regex find an replace:
     1. Find: `(.*?).html-\s+<p>(.*?)</p>`
